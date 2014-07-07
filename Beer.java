@@ -19,6 +19,7 @@ public class Beer {
            System.out.print("Le Xuan Truong \t");
             System.out.print("11020355 \t");
             System.out.print("K56CD \t");
+            System.out.print("truonglx-56 \t");
             System.out.println("truonglx_56@vnu.edu.vn");
             for(int i=9;i>=1;i--){
             System.out.print(i);
