@@ -16,10 +16,10 @@ public class Beer {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-           System.out.print("Ho va ten: Le Xuan Truong \t");
-            System.out.print("Ma sv: 11020355 \t");
-            System.out.print("Lop: K56CD \t");
-            System.out.println("User name: truonglx_56");
+           System.out.print(" Le Xuan Truong \t");
+            System.out.print("11020355 \t");
+            System.out.print("K56CD \t");
+            System.out.println("truonglx_56@vnu.edu.vn");
             for(int i=9;i>=1;i--){
             System.out.print(i);
             System.out.print(" bottle of beer on the wall, ");
