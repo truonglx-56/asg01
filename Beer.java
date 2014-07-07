@@ -16,7 +16,7 @@ public class Beer {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-           System.out.print(" Le Xuan Truong \t");
+           System.out.print("Le Xuan Truong \t");
             System.out.print("11020355 \t");
             System.out.print("K56CD \t");
             System.out.println("truonglx_56@vnu.edu.vn");
