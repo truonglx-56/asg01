@@ -20,17 +20,14 @@ public class Beer {
             System.out.print("Ma sv: 11020355 \t");
             System.out.print("Lop: K56CD \t");
             System.out.println("User name: truonglx_56");
-            for(int i=1;i<=20;i++){
-            System.out.println("9 bottles of beer on the wall, 9 bottles of beer.");
+            for(int i=9;i>=1;i--){
+            System.out.print(i);
+            System.out.print(" bottle of beer on the wall, ");
+            System.out.print(i);          
+            System.out.println(" bottle of beer.");
             System.out.println("Take one down, pass it around,");
-            System.out.println("8 bottles of beer on the wall, 8 bottles of beer.");
-            System.out.println("Take one down, pass it around,");
-            System.out.println("...");
-            System.out.println("1 bottle of beer on the wall, 1 bottle of beer.");
-            System.out.println("Take one down, pass it around,");
-            System.out.println("No more bottles of beer on the wall.");
-         
-    }
+            
+            }
     
 }
 }
