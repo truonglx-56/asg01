@@ -21,11 +21,8 @@ public class Beer {
             System.out.print("K56CD \t");
             System.out.print("truonglx-56 \t");
             System.out.println("truonglx_56@vnu.edu.vn");
-            for(int i=9;i>=1;i--){
-            System.out.print(i);
-            System.out.print(" bottle of beer on the wall, ");
-            System.out.print(i);          
-            System.out.println(" bottle of beer.");
+            for(int i=9;i>=1;i--)
+            System.out.println(i+" bottle of beer on the wall, "+i+" bottle of beer.");
             System.out.println("Take one down, pass it around,");
             
            }
